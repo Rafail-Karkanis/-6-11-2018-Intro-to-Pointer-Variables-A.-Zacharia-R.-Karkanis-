@@ -1,6 +1,6 @@
-<a href="https://github.com/Rafail-Karkanis/Intro-to-Pointer-Variables-Tutorial-Codes">Annotated C90 codes</a> I've written as complementary material for two seminars:
-<a href="http://eclass.uth.gr/eclass/modules/document/index.php?course=DIB269&openDir=/5c0663bbN9sN/5c0665e5fmc7">[6-11-2018] Intro to Pointer Variables (A. Zacharia & R. Karkanis)</a>
-<a href="http://eclass.uth.gr/eclass/modules/document/index.php?course=DIB269&openDir=/5c0663bbN9sN/5c066515eF2r">[13-11-2018] Pointers and Arrays (R. Karkanis)</a>
+<a href="https://github.com/Rafail-Karkanis/Intro-to-Pointer-Variables-Tutorial-Codes">Annotated C90 codes</a> I've written as complementary material for two seminars:<br>
+<a href="http://eclass.uth.gr/eclass/modules/document/index.php?course=DIB269&openDir=/5c0663bbN9sN/5c0665e5fmc7">[6-11-2018] Intro to Pointer Variables (A. Zacharia & R. Karkanis)</a><br>
+<a href="http://eclass.uth.gr/eclass/modules/document/index.php?course=DIB269&openDir=/5c0663bbN9sN/5c066515eF2r">[13-11-2018] Pointers and Arrays (R. Karkanis)</a><br>
 <a href="http://dib.uth.gr/">(University of Thessaly - Department of Computer Science and Biomedical Informatics)</a>
 
 You will need a compiler that adheres to the ISO/IEC 9899:1990 (or newer) standard.
