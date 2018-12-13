@@ -14,7 +14,7 @@ please inform me. I am just another student.
 You are allowed to use the material for whatever reason you see fit.
 I'd appreciate & encourage you to inform me in case this material helped you in any way.
 
-The material I've used in the preparation of these two seminars are:
+The material I've used in the preparation of these two seminars is:
 [1] Ted Jensen. "A TUTORIAL ON POINTERS AND ARRAYS IN C", Sept. 2003. [Online]. Available: <a href="http://home.netcom.com/%7Etjensen/ptr/pointers.htm">http://home.netcom.com/%7Etjensen/ptr/pointers.htm</a>, [Accessed Oct. 27, 2018].
 
 [2] K. N. King, C Programming: A Modern Approach. New York: W. W. Norton & Company, 2008.
